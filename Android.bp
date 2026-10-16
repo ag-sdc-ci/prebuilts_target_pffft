@@ -36,8 +36,6 @@ cc_prebuilt_library {
         "//frameworks/av/media/libaudioclient/tests",
         "//hardware/interfaces/audio/aidl/vts",
         "//vendor:__subpackages__",
-        "//apex_available:platform",
-        "//apex_available:anyapex",
     ],
     apex_available: [
         "//apex_available:platform",
