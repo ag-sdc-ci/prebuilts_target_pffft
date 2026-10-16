@@ -1,0 +1,18 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libpffft-x86_64-v2.so.so",
+		    "libdummy_binary_libpffft.a-x86_64-v2.so",
+		    "libdummy_binary_libpffft.a.so",
+		    "libdummy_binary_libpffft.so.so",
+		    "libdummy_ext_pffft-x86_64-v2.so",
+		    "libdummy_ext_pffft.so",
+		    "libdummy_headers_ext_pffft-x86_64-v2.so",
+		    "libdummy_headers_ext_pffft.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
